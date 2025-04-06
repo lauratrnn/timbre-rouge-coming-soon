@@ -1,0 +1,23 @@
+Last login: Sun Apr  6 16:10:32 on ttys000
+lau@MBP-de-Lau ~ % git add .
+git commit -m "Initial commit - Coming Soon page Timbre Rouge"
+git branch -M main
+git remote add origin https://github.com/lauraatrnn/timbre-rouge-coming-soon.gitgit push -u origin main
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+lau@MBP-de-Lau ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
